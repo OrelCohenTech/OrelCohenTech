@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Orel Cohen 👋
 
-<!--
-**ORELCOHEN953/ORELCOHEN953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| ⚡ My GitHub Stats | ⚡ Top Languages |
+|:------------------:|:-------------------------:|
+| ![Orel's GitHub stats](https://github-readme-stats.vercel.app/api?username=orelcohen953&show_icons=true&rank_icon=github&theme=dracula&icon_color=ff79c6&cache_seconds=1800) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orelcohen953&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=450&theme=dracula)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=1800) |
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm a second-year Computer Science student at HIT Holon.  
+💻 Passionate about software development, problem solving, and cybersecurity.  
+🛒 I also manage an e-commerce business focused on electronics and smart home products.
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menashe-ashkenazi-28323330b)
+
+## 🧠 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,linux,git,github,mysql,mongodb,vscode" />
+  </a>
+</p>
