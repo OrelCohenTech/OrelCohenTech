@@ -13,7 +13,7 @@
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orel-cohen-expert/)  
-✉️ Email: [orelcohen953@gmail.com](mailto:orelcohen953@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:orelcohen953@gmail.com)
 
 ## 🧠 Skills
 <p align="center">
