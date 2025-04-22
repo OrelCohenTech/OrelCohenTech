@@ -2,7 +2,7 @@
 
 | ⚡ My GitHub Stats | ⚡ Top Languages |
 |:------------------:|:-------------------------:|
-| ![Orel's GitHub stats](https://github-readme-stats.vercel.app/api?username=orelcohen953&show_icons=true&rank_icon=github&theme=dracula&icon_color=ff79c6&cache_seconds=1800) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orelcohen953&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=450&theme=dracula)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=1800) |
+| ![Orel's GitHub stats](https://github-readme-stats.vercel.app/api?username=orelcohen953&show_icons=true&rank_icon=github&theme=radical&icon_color=f8f8f2&cache_seconds=1800) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orelcohen953&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=450&theme=radical)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=1800) |
 
 ## 🚀 About Me
 
