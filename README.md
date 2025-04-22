@@ -17,16 +17,16 @@ HIT Holon, Expected Graduation: 2026
 
 ## 🚀 Featured Projects
 
-### [Create Pacman](https://github.com/ORELCOHEN953/Create_Pacman)
+### [Create Pacman](https://github.com/OrelCohenTech/Create_Pacman)
 A Java-based implementation of the classic Pac-Man game. The project demonstrates object-oriented principles and includes graphical elements, maze navigation, and AI-controlled ghosts.
 
-### [Map2DCore](https://github.com/ORELCOHEN953/Map2DCore)
+### [Map2DCore](https://github.com/OrelCohenTech/Map2DCore)
 A project focused on implementing functions for managing and manipulating a 2D map. It provides a set of tools for adding, removing, and accessing elements in a two-dimensional space.
 
-### [PolyRep](https://github.com/ORELCOHEN953/PolyRep-)
+### [PolyRep](https://github.com/OrelCohenTech/PolyRep-)
 This project involves the representation and manipulation of polynomials using arrays. It includes functions for polynomial evaluation, addition, subtraction, and other operations.
 
-### [Cyber AI](https://github.com/ORELCOHEN953/cyber_ai)
+### [Cyber AI](https://github.com/OrelCohenTech/cyber_ai)
 A project focused on cybersecurity and AI, specifically predicting and preventing cyber-attacks using artificial intelligence techniques.
 
 ## 📫 How to reach me
