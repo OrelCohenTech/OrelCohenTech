@@ -69,10 +69,9 @@ A project focused on cybersecurity and AI, specifically predicting and preventin
 </p>
 
 ### Tools
-- VSCode, IntelliJ, Linux, Docker  
+- VSCode, Linux, Docker  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-  <img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
 </p>
