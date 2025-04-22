@@ -39,33 +39,43 @@ A project focused on cybersecurity and AI, specifically predicting and preventin
 ### Languages
 - Python, Java, C++, C  
 <p align="center">
-  ![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![C](https://skillicons.dev/icons?i=c)
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
 </p>
 
 ### Web Development
 - HTML, CSS, JavaScript, React  
 <p align="center">
-  ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![React](https://skillicons.dev/icons?i=react)
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
 </p>
 
 ### Database Management
 - MySQL, MongoDB  
 <p align="center">
-  ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
 </p>
 
 ### Version Control
 - Git, GitHub  
 <p align="center">
-  ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </p>
 
 ### Tools
 - VSCode, IntelliJ, Linux, Docker  
 <p align="center">
-  ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) ![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker)
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
 </p>
 
 ## 💬 Quote
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
