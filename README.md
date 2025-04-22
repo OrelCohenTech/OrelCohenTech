@@ -36,20 +36,36 @@ A project focused on cybersecurity and AI, specifically predicting and preventin
 
 ## 🧠 Skills
 
-- **Languages**  
+### Languages
+- Python, Java, C++, C  
+<p align="center">
   ![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![C](https://skillicons.dev/icons?i=c)
-  
-- **Web Development**  
+</p>
+
+### Web Development
+- HTML, CSS, JavaScript, React  
+<p align="center">
   ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![React](https://skillicons.dev/icons?i=react)
+</p>
 
-- **Database Management**  
+### Database Management
+- MySQL, MongoDB  
+<p align="center">
   ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+</p>
 
-- **Version Control**  
+### Version Control
+- Git, GitHub  
+<p align="center">
   ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+</p>
 
-- **Tools**  
+### Tools
+- VSCode, IntelliJ, Linux, Docker  
+<p align="center">
   ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) ![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker)
+</p>
 
 ## 💬 Quote
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
