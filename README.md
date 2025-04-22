@@ -10,14 +10,37 @@
 💻 Passionate about software development, problem solving, and cybersecurity.  
 🛒 I also manage an e-commerce business focused on electronics and smart home products.
 
+## 🎓 Education
+
+**Bachelor's Degree in Computer Science**  
+HIT Holon, Expected Graduation: 2026
+
+## 🚀 Featured Projects
+
+### [Create Pacman](https://github.com/ORELCOHEN953/Create_Pacman)
+A Java-based implementation of the classic Pac-Man game. The project demonstrates object-oriented principles and includes graphical elements, maze navigation, and AI-controlled ghosts.
+
+### [Map2DCore](https://github.com/ORELCOHEN953/Map2DCore)
+A project focused on implementing functions for managing and manipulating a 2D map. It provides a set of tools for adding, removing, and accessing elements in a two-dimensional space.
+
+### [PolyRep](https://github.com/ORELCOHEN953/PolyRep-)
+This project involves the representation and manipulation of polynomials using arrays. It includes functions for polynomial evaluation, addition, subtraction, and other operations.
+
+### [Cyber AI](https://github.com/ORELCOHEN953/cyber_ai)
+A project focused on cybersecurity and AI, specifically predicting and preventing cyber-attacks using artificial intelligence techniques.
+
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orel-cohen-expert/)  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:orelcohen953@gmail.com)
 
 ## 🧠 Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,linux,git,github,mysql,mongodb,vscode" />
-  </a>
-</p>
+
+- **Languages**: Python, Java, C++, C  
+- **Web Development**: HTML, CSS, JavaScript, React  
+- **Database Management**: MySQL, MongoDB  
+- **Version Control**: Git, GitHub  
+- **Tools**: VSCode, IntelliJ, Docker, Linux
+
+## 💬 Quote
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
