@@ -2,7 +2,7 @@
 
 | ⚡ My GitHub Stats | ⚡ Top Languages |
 |:------------------:|:-------------------------:|
-| ![Orel's GitHub stats](https://github-readme-stats.vercel.app/api?username=orelcohen953&show_icons=true&rank_icon=github&theme=github&icon_color=0366d6&cache_seconds=1800) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orelcohen953&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=450&theme=github&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=1800) |
+| ![Orel's GitHub stats](https://github-readme-stats.vercel.app/api?username=orelcohen953&show_icons=true&rank_icon=github&theme=dracula&icon_color=ff79c6&cache_seconds=1800) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orelcohen953&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=450&theme=dracula)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=1800) |
 
 ## 🚀 About Me
 
@@ -35,19 +35,21 @@ A project focused on cybersecurity and AI, specifically predicting and preventin
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:orelcohen953@gmail.com)
 
 ## 🧠 Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" /> Python  
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" /> Java  
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /> C++  
-  <img src="https://skillicons.dev/icons?i=c" alt="C" /> C  
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> Linux  
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" /> Git  
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /> GitHub  
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> MySQL  
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /> MongoDB  
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /> VSCode
-</p>
+
+- **Languages**  
+  ![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![C](https://skillicons.dev/icons?i=c)
+  
+- **Web Development**  
+  ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![React](https://skillicons.dev/icons?i=react)
+
+- **Database Management**  
+  ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+- **Version Control**  
+  ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+
+- **Tools**  
+  ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) ![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker)
 
 ## 💬 Quote
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
