@@ -17,6 +17,9 @@ HIT Holon, Expected Graduation: 2026
 
 ## 🚀 Featured Projects
 
+### [Titanic-ml](https://github.com/OrelCohenTech/titanic-ml-assignment)
+This assignment applies supervised machine learning to the classic Titanic survival prediction task.
+
 ### [Create Pacman](https://github.com/OrelCohenTech/Create_Pacman)
 A Java-based implementation of the classic Pac-Man game. The project demonstrates object-oriented principles and includes graphical elements, maze navigation, and AI-controlled ghosts.
 
