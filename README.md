@@ -20,6 +20,9 @@ HIT Holon, Expected Graduation: 2026
 ### [Titanic-ml](https://github.com/OrelCohenTech/titanic-ml-assignment)
 This assignment applies supervised machine learning to the classic Titanic survival prediction task.  Using structured Excel datasets for training and testing, we build classification models to predict passenger survival. The project involves data preprocessing, feature selection.
 
+### [Chat-system](https://github.com/OrelCohenTech/Chat_system)
+A Python-based chat system that uses Sockets and the TCP protocol for two-way communication between multiple clients via a central server. The project was built as part of a practice of principles in computer communication, network programming, and multithreading, without the use of third-party libraries for server management.
+
 ### [Create Pacman](https://github.com/OrelCohenTech/Create_Pacman)
 A Java-based implementation of the classic Pac-Man game. The project demonstrates object-oriented principles and includes graphical elements, maze navigation, and AI-controlled ghosts.
 
