@@ -1,6 +1,11 @@
 # Hi there, I'm Orel Cohen 👋
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=OrelCohenTech&show_icons=true&count_private=true&theme=react" />
+<p align="center">
+  <!-- Commits, PRs, Stars -->
+  <img src="https://github-readme-stats.vercel.app/api?username=OrelCohenTech&show_icons=true&count_private=true&theme=radical" height="180"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrelCohenTech&layout=compact&langs_count=8&theme=radical&count_private=true" height="180"/>
+</p>
 
 ## 📈 Recent Activity & Contribution
 
