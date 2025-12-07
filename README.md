@@ -1,25 +1,4 @@
 # Hi there, I'm Orel Cohen 👋
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OrelCohenTech&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrelCohenTech&show_icons=true&rank_icon=github&theme=transparent&title_color=4fd1c5&icon_color=4fd1c5&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Orel's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrelCohenTech&hide=jupyter%20notebook,html&layout=compact&langs_count=6&card_width=450&theme=transparent&title_color=4fd1c5&text_color=FFFFFF&bg_color=0D1117&hide_border=true&border_radius=10" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrelCohenTech&theme=dark&hide_border=true&ring=4fd1c5&side_color=FFFFFF&title_color=4fd1c5&stroke=0D1117&background=0D1117" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🔥 Daily Commitment & Streak
 
 <p align="center">
