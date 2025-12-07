@@ -1,5 +1,5 @@
 # Hi there, I'm Orel Cohen 👋
-
+---
 ## 📰 Latest Activity (Auto-Updated)
 ---
 ## 📈 Recent Activity & Contribution
@@ -40,7 +40,7 @@ A project focused on implementing functions for managing and manipulating a 2D m
 
 ### [PolyRep](https://github.com/OrelCohenTech/PolyRep-)
 This project involves the representation and manipulation of polynomials using arrays. It includes functions for polynomial evaluation, addition, subtraction, and other operations.
-
+---
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orel-cohen-expert/)  
