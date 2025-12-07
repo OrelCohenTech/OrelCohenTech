@@ -1,5 +1,4 @@
 # Hi there, I'm Orel Cohen 👋
-![Top Languages by Commits](https://better-readme-stats-ruberald8800-b77rzyn5.leapcell.dev/stats?username=OrelCohenTech)
 
 ## 📈 Recent Activity & Contribution
 
