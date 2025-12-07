@@ -1,5 +1,14 @@
 # Hi there, I'm Orel Cohen 👋
 
+## 🚀 GitHub Statistics & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OrelCohenTech&show_icons=true&count_private=true&theme=tokyonight" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrelCohenTech&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
+</p>
+
+---
 ## 📈 Recent Activity & Contribution
 
 <p align="center">
