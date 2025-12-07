@@ -1,13 +1,11 @@
 # Hi there, I'm Orel Cohen 👋
-## 🚀 Core Competencies & GitHub Metrics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrelCohenTech&show_icons=true&rank_icon=github&theme=transparent&title_color=4fd1c5&icon_color=4fd1c5&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&layout=compact" alt="Orel's GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrelCohenTech&hide=jupyter%20notebook,html&layout=compact&langs_count=6&card_width=450&theme=transparent&title_color=4fd1c5&icon_color=4fd1c5&text_color=FFFFFF&bg_color=0D1117&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OrelCohenTech&show_icons=true&rank_icon=github&theme=transparent&title_color=4fd1c5&icon_color=4fd1c5&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Orel's GitHub Stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrelCohenTech&hide=jupyter%20notebook,html&layout=compact&langs_count=6&card_width=500&theme=transparent&title_color=4fd1c5&icon_color=4fd1c5&text_color=FFFFFF&bg_color=0D1117&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
 
 ## 📈 Recent Activity & Contribution
 
