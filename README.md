@@ -1,9 +1,30 @@
 # Hi there, I'm Orel Cohen 👋
 
-| ⚡ My GitHub Stats | ⚡ Top Languages |
-|:------------------:|:-------------------------:|
-| ![Orel's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrelCohenTech&show_icons=true&rank_icon=github&theme=merko&icon_color=4fd1c5&cache_seconds=1800) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrelCohenTech&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=450&theme=merko)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=1800) |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OrelCohenTech&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
+</p>
 
+---
+
+## 🚀 Core Competencies & Tech Stack
+
+| 🛠️ GitHub Metrics (Global) | 💡 Top Languages & Expertise |
+| :-------------------------: | :---------------------------: |
+| <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=OrelCohenTech&show_icons=true&rank_icon=github&theme=transparent&title_color=4fd1c5&icon_color=4fd1c5&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true&hide_border=true" alt="Orel's GitHub Stats" />
+  </p> | <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrelCohenTech&hide=jupyter%20notebook,html&layout=compact&langs_count=6&card_width=450&theme=transparent&title_color=4fd1c5&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  </p> |
+
+---
+
+## 🔥 Daily Commitment & Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrelCohenTech&theme=dark&hide_border=true&ring=4fd1c5&side_color=FFFFFF&title_color=4fd1c5&stroke=0D1117" alt="GitHub Streak" />
+</p>
+
+---
 ## 🚀 About Me
 
 🎓 I'm a third-year Computer Science student at HIT Holon.  
