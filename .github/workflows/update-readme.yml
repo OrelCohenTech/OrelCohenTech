@@ -1,0 +1,35 @@
+name: GitHub Readme Update
+
+on:
+  # הפעלה אוטומטית: רץ פעם ביום בחצות (UTC)
+  schedule:
+    - cron: '0 0 * * *'
+  # מאפשר הפעלה ידנית מהגדרות הרפוזיטורי
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      # שלב 1: משיכת הקוד הקיים מהרפוזיטורי
+      - uses: actions/checkout@v4
+
+      # שלב 2: יצירת נתוני הפעילות האחרונה
+      - name: Generate README content
+        uses: yoshi-k/github-profile-readme-generator@main
+        with:
+          # השתמש בטוקן ה-GitHub המובנה
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # האם להציג פעילות (כמו: קומיטים, פתיחת issue, סגירת PR)
+          SHOW_RECENT_ACTIVITY: true
+          # האם להציג את השפות המובילות
+          SHOW_TOP_LANGUAGES: false # נשתמש בטבלה ידנית במקום
+          # הגדרות נוספות (ניתן להשאיר כברירת מחדל)
+          TARGET_FILE: README.md
+
+      # שלב 3: העלאת הקובץ המעודכן חזרה ל-GitHub
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions Bot
+          message: 'Auto-updated README activity'
