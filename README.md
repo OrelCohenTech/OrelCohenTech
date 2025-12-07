@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a second-year Computer Science student at HIT Holon.  
+🎓 I'm a third-year Computer Science student at HIT Holon.  
 💻 Passionate about software development, problem solving, and cybersecurity.  
 🛒 I also manage an e-commerce business focused on electronics and smart home products.
 
