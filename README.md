@@ -1,26 +1,4 @@
 # Hi there, I'm Orel Cohen 👋
-## 💻 Language & Tech Breakdown (Visualized)
-
-| Language | Primary Focus | Expertise Level |
-| :--- | :--- | :--- |
-| **Python** 🐍 | Data Science, Backend Services | █████████░ (90%) |
-| **JavaScript/TypeScript** 🌐 | Web Development, Node.js | ███████░░░ (70%) |
-| **C++** ⚙️ | Algorithms, HPC, System Programming | █████░░░░░ (50%) |
-| **SQL** / **MongoDB** 💾 | Database Management | ████░░░░░░ (40%) |
-| **Bash/Shell** 🐧 | Automation, Linux Systems | ████░░░░░░ (40%) |
-
----
-
-## 📈 GitHub Metrics (Core Contributions)
-
-מכיוון שאנו נמנעים מתמונות דינמיות, אנו נשתמש בנתונים סטטיסטיים ידניים (שיש לעדכן אחת לכמה זמן).
-
-| Contribution Type | Total Count (Approx.) | Significance |
-| :--- | :--- | :--- |
-| **Commits** (Total) | [1,200+] | Demonstrates consistent daily activity and progress. |
-| **Pull Requests** (Merged) | [50+] | Shows collaboration and code review skills. |
-| **Projects** (Featured) | [5] | Focus on delivering production-ready applications. |
-| **Stars Received** | [10+] | Community recognition for useful/interesting code. |
 
 ## 📈 Recent Activity & Contribution
 
