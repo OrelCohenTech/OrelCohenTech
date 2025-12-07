@@ -1,5 +1,7 @@
 # Hi there, I'm Orel Cohen 👋
 
+## 📰 Latest Activity (Auto-Updated)
+---
 ## 📈 Recent Activity & Contribution
 
 <p align="center">
