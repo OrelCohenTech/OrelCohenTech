@@ -1,10 +1,6 @@
 # Hi there, I'm Orel Cohen 👋
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OrelCohenTech&show_icons=true&count_private=true&theme=react" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OrelCohenTech&layout=compact&langs_count=8&theme=react" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=OrelCohenTech&show_icons=true&count_private=true&theme=react" />
 
 ## 📈 Recent Activity & Contribution
 
