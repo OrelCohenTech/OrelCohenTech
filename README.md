@@ -1,8 +1,22 @@
 # Hi there, I'm Orel Cohen 👋
-## 🔥 Daily Commitment & Streak
+## 🚀 Core Competencies & GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrelCohenTech&theme=dark&hide_border=true&ring=4fd1c5&side_color=FFFFFF&title_color=4fd1c5&stroke=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OrelCohenTech&show_icons=true&rank_icon=github&theme=transparent&title_color=4fd1c5&icon_color=4fd1c5&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&layout=compact" alt="Orel's GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrelCohenTech&hide=jupyter%20notebook,html&layout=compact&langs_count=6&card_width=450&theme=transparent&title_color=4fd1c5&icon_color=4fd1c5&text_color=FFFFFF&bg_color=0D1117&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📈 Recent Activity & Contribution
+
+<p align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=OrelCohenTech&theme=react-dark&hide_border=true&point=4fd1c5&line=4fd1c5&hide_footer=true" alt="Orel's Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrelCohenTech&theme=dark&hide_border=true&ring=4fd1c5&side_color=FFFFFF&title_color=4fd1c5&stroke=0D1117&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
